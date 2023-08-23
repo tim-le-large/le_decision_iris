@@ -5,4 +5,4 @@ In this project we solve the classification of the different iris species (Schwe
 
 Which leads to the following result:
 
-=> see tree.html
+![tree.jpg](attachment/tree.jpg)
